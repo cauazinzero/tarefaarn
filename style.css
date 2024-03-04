@@ -1,0 +1,38 @@
+body{
+background-color: white ;
+
+}
+
+*{
+font-family: 'Segoe UI';
+padding: 0px;
+
+
+}
+p{
+    text-align: justify;
+    font-size: 18px;
+}
+
+header{
+    background-color: lightcyan;
+    width: 1410px;
+    height: 100px;
+    margin: -1%;
+    
+
+}
+
+.logo{
+    width: 100px;
+    position: static
+}
+
+h1{
+    position:relative;
+    margin:-1%;
+}
+.emg{
+    margin:-1%;
+    
+}
